@@ -1870,7 +1870,6 @@ PRODUCT_PACKAGES += \
     libMpeg4SwEncoder \
     libadsprpc \
     libbtnv \
-    libplatformconfig \
     libsdsprpc \
     CACertService \
     CneApp \
